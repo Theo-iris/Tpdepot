@@ -1,7 +1,2 @@
-public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("worlds");
-    }
-}
-
-print("Hello World")
+Today is a wonderful day
+22 alala 22
